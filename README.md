@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I'm Currently Engaged In Developing Comprehensive Full-Stack Projects.<br>🌱 I'm Currently Deepening My Understanding Of WebRTC Concepts.<br>💬 Feel Free To Discuss Topics Related To React, Front-End And Back-End Development, MERN stack, Version Control, Deployment Strategies, And Hosting Solutions. I'm here to help with any questions you might have!<br>⚡ Fun Fact  👉 OverThinker,  Night Owl🧑‍💻
-<br> 
-## 🙎 Never Ever Give Up, Just Console.log();
+# 🙎 Never Ever Give Up, Just Console.log();
 
 
 ## 🌐 Socials:
