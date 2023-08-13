@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I'm Currently Engaged In Developing Comprehensive Full-Stack Projects.<br>🌱 I'm Currently Deepening My Understanding Of WebRTC Concepts.<br>💬 Feel Free To Discuss Topics Related To React, Front-End And Back-End Development, MERN stack, Version Control, Deployment Strategies, And Hosting Solutions. I'm here to help with any questions you might have!<br>⚡ Fun Fact  👉 OverThinker,  Night Owl🧑‍💻
 
+<div style="background-color: #068de0; padding: 10px; border-radius: 4px;">
+  <p style="font-size: 18px; font-weight: bold; color: #ffff;">"Never Give Up, Just console.log()"</p>
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100007377588225&mibextid=2JQ9oc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rv__sharma_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravi-sharma01/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ravisharma45935) 
